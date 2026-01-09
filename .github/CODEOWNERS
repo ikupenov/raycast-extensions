@@ -881,6 +881,7 @@
 /extensions/hestiacp-admin                                          @xmok
 /extensions/hetrixtools                                             @xmok
 /extensions/hetzner                                                 @alex-w0
+/extensions/hevy                                                    @clins1994
 /extensions/hexlify                                                 @gkpln3
 /extensions/hidden-icons                                            @koinzhang
 /extensions/hide-all-apps                                           @peduarte @pernielsentikaer @andrewsardone @haydencbarnes
@@ -892,7 +893,7 @@
 /extensions/hipster-ipsum                                           @plevik
 /extensions/holodex                                                 @uetchy @hcy1251
 /extensions/holopin                                                 @timoransky @pernielsentikaer
-/extensions/homeassistant                                           @tonka3000 @altrdev @rspeicher @amuelli @xilopaint @krsntn @mikikiv
+/extensions/homeassistant                                           @tonka3000 @altrdev @rspeicher @amuelli @xilopaint @krsntn @mikikiv @techmaved
 /extensions/homebox                                                 @xmok
 /extensions/homepage                                                @bgiovand
 /extensions/homey                                                   @DominicVonk
@@ -1318,7 +1319,7 @@
 /extensions/multiviewer                                             @secustor
 /extensions/music                                                   @Rawnly @peterdev22 @danpalmer @octoxan @Shpigford @urwrstkn8mare @michalzuch @validatedev @hrishabhn @bogdanrbucur @xmok
 /extensions/music-assistant-controls                                @YoeriVD
-/extensions/music-link-converter                                    @quentin23soleil @ridemountainpig
+/extensions/music-link-converter                                    @quentin23soleil @ridemountainpig @clins1994
 /extensions/music-timer                                             @JulienLacr0ix
 /extensions/musicthread                                             @ChucKN0risK
 /extensions/must                                                    @eggsy @xmok

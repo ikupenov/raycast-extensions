@@ -1,6 +1,19 @@
 # Kill Process Changelog
 
-## [Fixes and Improvements] - {PR_MERGE_DATE}
+## [UX Improvements] - 2026-02-11
+
+- Removed the redundant **Default Sort By** preference (sorting is now persisted via the command dropdown)
+
+## [UX Improvements] - 2026-02-10
+
+- Reorganized preferences into clearer sections
+- Avoid showing a redundant subtitle when it matches the process name
+
+## [Preferences] - 2026-02-04
+
+- Added preference to skip kill confirmation dialogs
+
+## [Fixes and Improvements] - 2026-01-13
 
 - Added shortcut for the **Copy Path** action
 - Added shortcut for the **Reload** action to the Windows version
